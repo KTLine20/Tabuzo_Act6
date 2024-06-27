@@ -1,0 +1,14 @@
+
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="beaches1">NACPAN BEACH.</string>
+    <string name="beaches2">SAN VINCENTE LONG BEACH.</string>
+    <string name="beaches3">BALABAC BEACH.</string>
+    <string name="beaches4">ALONA BEACH.</string>
+    <string name="beaches5">BORACAY.</string>
+    <string name="beaches6">CAMIGUIN ISLAND.</string>
+    <string name="beaches7">WHITE ISLAND.</string>
+    <string name="beaches8">SIARGAO.</string>
+    <string name="beaches9">CORON.</string>
+    <string name="beaches10">BITAOG BEACH.</string>
+</resources>
